@@ -87,9 +87,12 @@ Install Visual Studion from https://code.visualstudio.com and subsequently
 install the default `C/C++ extension`. Note that Visual Studio also supports
 Git, so it is good to have already cloned the repository.
 
-TODO Create project file, build project and run project.
+**TODO** Perhaps remove first `.vscode/*` and `opentaal-ms.code-workspace` and
+start again.
 
-TODO Rewrite text below.
+**TODO** Create project file, build project and run project.
+
+**TODO** Rewrite text below.
 
 ### Spell Checking Client Sample
 
@@ -135,9 +138,9 @@ NOTE: If using VS11, this sample requires a non-Express version
 
 ## 4 Tests
 
-TODO Test with word lists.
+**TODO** Test with word lists.
 
-TODO Rewrite text below.
+**TODO** Rewrite text below.
 
 ### To run the sample:
 
