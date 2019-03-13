@@ -64,7 +64,7 @@ The virtual image is stopped with `RightCtrl+h`. To toggle full screen	, use
 `RightCtrl+F`.
 
 To later on remove all virtual machines or to start fresh, see
-`~/'VirtualBox VMs'/` and `~/.config/VirtualBox/`.
+`~/'VirtualBox VMs'/` (20 GB) and `~/.config/VirtualBox/`.
 
 
 ## 2 Git
