@@ -63,3 +63,8 @@ get focus (mouse and keyboard) outside of vm, press Ctrl+Alt+Del
 # Install Git
 
 https://git-scm.com/download/win
+ git config --global user.name "Mona Lisa"
+
+install C/C++ extension
+open folder
+
